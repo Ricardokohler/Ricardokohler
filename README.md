@@ -7,7 +7,7 @@
 </div>
 <div>
             <a href = "mailto:ricardokohlermk@gmail.com"><img scr=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-            <a href="mailto:ricardokohlermk@gmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+            <a href="mailto:ricardokohlermk@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
 </div>
             
