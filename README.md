@@ -1,4 +1,4 @@
-## Olá, eu sou o Ricardo Kohler 
+## Olá, eu sou o Ricardo Kohler <hr>
 <br> Java | SpringBoot| Postman| SQL Básico | Html básico<br>
 Desenvolvedor Back-End - Estagio - Júnior<br><br>
 <div style="display: inline_block"><br>
