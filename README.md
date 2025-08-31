@@ -11,7 +11,8 @@
 				<li><a href="https://github.com/Ricardokohler/LocaVeic/branches">Locaveics</a></li>	
 				<li><a href = "https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria">HausDom</a></li>
 				<br><br><H3>Java Core</H3>
-				<li>Teste</li>
+				<li><a href="https://github.com/Ricardokohler/CadastroEventos-Console">Cadastro de Eventos - Console</a></li>
+				<li><a href = "https://github.com/Ricardokohler/Sistema-Ponto-de-Venda---Console">Sistema para ponto de venda</a></li>
 			
 		
 
