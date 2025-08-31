@@ -5,14 +5,30 @@
 <div>		
 		<H2>Meus Repositorios</H2>
 		<ul><H3> Apis Rest </H3>
-				<li><a href="https://github.com/Ricardokohler/EducaSys">EducaSys</a></li>
-				<li><a href="https://github.com/Ricardokohler/sistema-loja">Sistema para Loja</a><blockquote>teste</blockquote></li>
-				<li><a href="https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url">Fracurl</a></li>
-				<li><a href="https://github.com/Ricardokohler/LocaVeic/branches">Locaveics</a></li>	
-				<li><a href = "https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria">HausDom</a></li>
+				
+			<li><a href="https://github.com/Ricardokohler/EducaSys">EducaSys</a>
+			<blockquote>
+				API Completa para cadastro e manipulacao de dados de Sistema de ensino
+			</blockquote></li>
+
+			<li><a href="https://github.com/Ricardokohler/sistema-loja">Sistema para Loja</a>
+			<blockquote>API Completa para cadastro e manipulacao de dados de Sistema de loja</blockquote></li>
+				
+			<li><a href="https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url">Fracurl</a>
+			<blockquote>API para Encurtamento de Url</blockquote></li>
+				
+			<li><a href="https://github.com/Ricardokohler/LocaVeic/branches">Locaveics</a>
+			<blockquote>API Simples para Sistema de Locadora de Veiculos</blockquote></li>	
+				
+			<li><a href = "https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria">HausDom</a>
+			<blockquote>API para cadastro de Imobiliaria</blockquote></li>
+<hr>
+
 				<br><br><H3>Java Core</H3>
-				<li><a href="https://github.com/Ricardokohler/CadastroEventos-Console">Cadastro de Eventos - Console</a></li>
-				<li><a href = "https://github.com/Ricardokohler/Sistema-Ponto-de-Venda---Console">Sistema para ponto de venda</a></li>
+				
+			<li><a href="https://github.com/Ricardokohler/CadastroEventos-Console">Cadastro de Eventos - Console</a></li>
+				
+			<li><a href = "https://github.com/Ricardokohler/Sistema-Ponto-de-Venda---Console">Sistema para ponto de venda</a></li>
 			
 		
 
