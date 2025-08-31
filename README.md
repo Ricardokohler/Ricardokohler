@@ -1,9 +1,9 @@
 ## Olá, eu sou o Ricardo Kohler 
  Java | SpringBoot | Postman | SQL Básico | Html básico<br><br> Desenvolvedor Back-End - Estagio - Júnior<br><br><hr><br><H2>Meus Repositorios</H2><ul><H3> Apis Rest </H3><li><a href="https://github.com/Ricardokohler/EducaSys">EducaSys</a><blockquote>API completa para cadastro e gerenciamento de dados de instituições de ensino.</blockquote></li>
 <li><a href="https://github.com/Ricardokohler/sistema-loja">Sistema para Loja</a><blockquote>API para cadastro e gerenciamento de dados de uma loja.</blockquote></li>
-<li><a href="https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url">Fracurl</a><blockquote>API para Encurtamento de Url</blockquote></li><li><a href="https://github.com/Ricardokohler/LocaVeic/branches">Locaveics</a><blockquote>API Simples para Sistema de Locadora de Veiculos</blockquote></li>
-<li><a href = "https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria">HausDom</a><blockquote>API para cadastro de Imobiliaria</blockquote></li>
-<br><br><h3>Java core</h3><li><a href="https://github.com/Ricardokohler/CadastroEventos-Console">Cadastro de Eventos - Console</a><blockquote>Apliacacao para cadastro de Eventos com leitura e escrita de arquivo para save</blockquote></li><li><a href = "https://github.com/Ricardokohler/Sistema-Ponto-de-Venda---Console">Sistema para ponto de venda</a><blockquote>Sistema em desenvolvimento para Console para gestao de ponto de venda e leitura e escrita de arquivo save</blockquote></li>
+<li><a href="https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url">Fracurl</a><blockquote>API para encurtamento e gerenciamento de URLs.</blockquote></li><li><a href="https://github.com/Ricardokohler/LocaVeic/branches">Locaveics</a><blockquote>API simples para sistema de locadora de veículos.</blockquote></li>
+<li><a href = "https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria">HausDom</a><blockquote>API para cadastro e gerenciamento de imoveis.</blockquote></li>
+<br><br><h3>Java core</h3><li><a href="https://github.com/Ricardokohler/CadastroEventos-Console">Cadastro de Eventos - Console</a><blockquote>Aplicação em console para cadastro de eventos, com leitura e escrita em arquivos para persistência de dados.</blockquote></li><li><a href = "https://github.com/Ricardokohler/Sistema-Ponto-de-Venda---Console">Sistema para ponto de venda</a><blockquote>Sistema em desenvolvimento para Console para gestao de ponto de venda e leitura e escrita de arquivo save</blockquote></li>
 </ul>
 
 
