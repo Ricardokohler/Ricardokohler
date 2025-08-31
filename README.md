@@ -29,7 +29,7 @@
 			<li><a href="https://github.com/Ricardokohler/CadastroEventos-Console">Cadastro de Eventos - Console</a></li>
 				
 			<li><a href = "https://github.com/Ricardokohler/Sistema-Ponto-de-Venda---Console">Sistema para ponto de venda</a></li>
-		</ul>	
+		
 		
 
 
