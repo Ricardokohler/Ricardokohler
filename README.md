@@ -6,8 +6,7 @@
 		<H2>Meus Repositorios</H2>
 		<ul><H3> Apis Rest </H3>
 				
-			<li><a href="https://github.com/Ricardokohler/EducaSys">EducaSys</a>API Completa para cadastro e manipulacao de dados de Sistema de ensino
-			</li>
+			<li><a href="https://github.com/Ricardokohler/EducaSys">EducaSys</a>API Completa para cadastro e manipulacao de dados de Sistema de ensino</li>
 
 			<li><a href="https://github.com/Ricardokohler/sistema-loja">Sistema para Loja</a>
 			API Completa para cadastro e manipulacao de dados de Sistema de loja</li>
@@ -18,8 +17,7 @@
 			<li><a href="https://github.com/Ricardokohler/LocaVeic/branches">Locaveics</a>
 			API Simples para Sistema de Locadora de Veiculos</li>	
 				
-			<li><a href = "https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria">HausDom</a>
-API para cadastro de Imobiliaria</li>
+			<li><a href = "https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria">HausDom</a>API para cadastro de Imobiliaria</li>
 
 
 			<li><a href="https://github.com/Ricardokohler/CadastroEventos-Console">Cadastro de Eventos - Console</a></li>
