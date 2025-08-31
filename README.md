@@ -22,7 +22,7 @@
 				
 			<li><a href = "https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria">HausDom</a>
 			<blockquote>API para cadastro de Imobiliaria</blockquote></li>
-<hr>
+
 
 				<br><br><H3>Java Core</H3>
 				
