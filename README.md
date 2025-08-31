@@ -5,9 +5,9 @@
 <div>		
 		<H2>Meus Repositorios</H2>
 		<ul>
-				<li><a href="https://github.com/Ricardokohler/EducaSys">EducaSys -  Sistemaparainstituicao de ensino</a></li>
+				<li><a href="https://github.com/Ricardokohler/EducaSys">EducaSys</a></li>
 				<li><a href="https://github.com/Ricardokohler/sistema-loja">Sistema para Loja</a></li>
-				<li><a href="https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url">Fracurl - Encurtador de Url</a></li>
+				<li><a href="https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url">Fracurl</a></li>
 				<li><a href="https://github.com/Ricardokohler/LocaVeic/branches">Locaveics</a></li>	
 				<li><a href = "https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria">HausDom</a></li>
 			
