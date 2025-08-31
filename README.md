@@ -7,21 +7,21 @@
 		<ul><H3> Apis Rest </H3>
 				
 			<li><a href="https://github.com/Ricardokohler/EducaSys">EducaSys</a>
-			<blockquote>
+			
 				API Completa para cadastro e manipulacao de dados de Sistema de ensino
-			</blockquote></li>
+			</li>
 
 			<li><a href="https://github.com/Ricardokohler/sistema-loja">Sistema para Loja</a>
-			<blockquote>API Completa para cadastro e manipulacao de dados de Sistema de loja</blockquote></li>
+			API Completa para cadastro e manipulacao de dados de Sistema de loja</li>
 				
 			<li><a href="https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url">Fracurl</a>
-			<blockquote>API para Encurtamento de Url</blockquote></li>
+			API para Encurtamento de Url</li>
 				
 			<li><a href="https://github.com/Ricardokohler/LocaVeic/branches">Locaveics</a>
-			<blockquote>API Simples para Sistema de Locadora de Veiculos</blockquote></li>	
+			API Simples para Sistema de Locadora de Veiculos</li>	
 				
 			<li><a href = "https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria">HausDom</a>
-			<blockquote>API para cadastro de Imobiliaria</blockquote></li>
+API para cadastro de Imobiliaria</li>
 
 
 				<br><br><H3>Java Core</H3>
