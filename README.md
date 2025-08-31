@@ -1,6 +1,6 @@
 ## Olá, eu sou o Ricardo Kohler <img align=center alt="Ricardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><img align=center alt="Ricardo-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /><img align=center alt="Ricardo-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
  Java | SpringBoot | Postman | SQL Básico | Html básico<br><br> Desenvolvedor Back-End - Estagio - Júnior<br><br><hr><br><H2>Meus Repositorios</H2><ul><H3> Apis Rest </H3>
-Coleção de projetos desenvolvidos com foco em arquitetura REST, implementando operações CRUD (Create, Read, Update, Delete) para manipulação de dados.
+Coleção de projetos desenvolvidos com foco em <b>arquitetura REST,</b> implementando operações <b<CRUD</b> (Create, Read, Update, Delete) para manipulação de dados.
 Essas APIs foram criadas para simular sistemas reais de diferentes domínios (educação, comércio, locadora e imobiliária), explorando boas práticas de modelagem, persistência com JPA/Hibernate e consumo via Postman para testes.
 <li><a href="https://github.com/Ricardokohler/EducaSys">EducaSys</a><blockquote>API completa para cadastro e gerenciamento de dados de instituições de ensino.</blockquote></li>
 <li><a href="https://github.com/Ricardokohler/sistema-loja">Sistema para Loja</a><blockquote>API para cadastro e gerenciamento de dados de uma loja.</blockquote></li>
