@@ -6,9 +6,7 @@
 		<H2>Meus Repositorios</H2>
 		<ul><H3> Apis Rest </H3>
 				
-			<li><a href="https://github.com/Ricardokohler/EducaSys">EducaSys</a>
-			
-				API Completa para cadastro e manipulacao de dados de Sistema de ensino
+			<li><a href="https://github.com/Ricardokohler/EducaSys">EducaSys</a>API Completa para cadastro e manipulacao de dados de Sistema de ensino
 			</li>
 
 			<li><a href="https://github.com/Ricardokohler/sistema-loja">Sistema para Loja</a>
@@ -31,7 +29,7 @@ API para cadastro de Imobiliaria</li>
 			<li><a href = "https://github.com/Ricardokohler/Sistema-Ponto-de-Venda---Console">Sistema para ponto de venda</a></li>
 		
 		
-
+</ul>
 
 </div>
 
