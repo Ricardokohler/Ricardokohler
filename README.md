@@ -5,8 +5,8 @@
 <li><a href="https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url">Fracurl</a><blockquote>API para encurtamento e gerenciamento de URLs.</blockquote></li><li><a href="https://github.com/Ricardokohler/LocaVeic/branches">Locaveics</a><blockquote>API simples para sistema de locadora de veículos.</blockquote></li>
 <li><a href = "https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria">HausDom</a><blockquote>API para cadastro e gerenciamento de imoveis.</blockquote></li>
 <br><hr><h3>Java Core</h3>
-Projetos desenvolvidos em <b>Java puro</b> (core), focados em reforçar conceitos fundamentais da linguagem, como estruturas de dados, lógica de programação.<br>
-Essas aplicações simulam cenários do mundo real, servindo como <b>prática para construção de sistemas</b> sem frameworks.<br><br>
+<small><small>Projetos desenvolvidos em <b>Java puro</b> (core), focados em reforçar conceitos fundamentais da linguagem, como estruturas de dados, lógica de programação.<br>
+Essas aplicações simulam cenários do mundo real, servindo como <b>prática para construção de sistemas</b> sem frameworks.</small></small><br><br>
 <li><a href="https://github.com/Ricardokohler/CadastroEventos-Console">Cadastro de Eventos - Console</a><blockquote>Aplicação em console para cadastro de eventos, com leitura e escrita em arquivos para persistência de dados.</blockquote></li><li><a href = "https://github.com/Ricardokohler/Sistema-Ponto-de-Venda---Console">Sistema para ponto de venda</a><blockquote>Aplicação em console para gestão de vendas, em desenvolvimento, com suporte a leitura e escrita em arquivos para salvar dados.</blockquote></li>
 </ul>
 
