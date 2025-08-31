@@ -8,7 +8,7 @@ Essas APIs foram criadas para simular sistemas reais de diferentes domínios (ed
 <li><a href = "https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria">HausDom</a><blockquote>API para cadastro e gerenciamento de imoveis.</blockquote></li>
 <br><br><h3>Java Core</h3>
 Projetos desenvolvidos em Java puro (core), focados em reforçar conceitos fundamentais da linguagem, como estruturas de dados, lógica de programação, leitura e escrita em arquivos para persistência de informações.
-Essas aplicações rodam no terminal/console e simulam cenários do mundo real, servindo como prática para construção de sistemas sem frameworks.
+Essas aplicações rodam no terminal/console e simulam cenários do mundo real, servindo como prática para construção de sistemas sem frameworks.<br>
 <li><a href="https://github.com/Ricardokohler/CadastroEventos-Console">Cadastro de Eventos - Console</a><blockquote>Aplicação em console para cadastro de eventos, com leitura e escrita em arquivos para persistência de dados.</blockquote></li><li><a href = "https://github.com/Ricardokohler/Sistema-Ponto-de-Venda---Console">Sistema para ponto de venda</a><blockquote>Aplicação em console para gestão de vendas, em desenvolvimento, com suporte a leitura e escrita em arquivos para salvar dados.</blockquote></li>
 </ul>
 
