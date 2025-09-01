@@ -3,7 +3,7 @@
  Java | SpringBoot | Postman | SQL Básico | Html básico<br><br> Desenvolvedor Back-End - Estagio - Júnior<br><br><hr><br><H2>Meus Repositorios</H2><ul><H3> Apis Rest </H3><small><small>Coleção de projetos desenvolvidos com foco em <b>arquitetura REST,</b> implementando operações <b>CRUD</b> para manipulação de dados.<br>Essas APIs foram criadas para <b>simular sistemas reais</b> de diferentes domínios.</small></small>
 <li><a href="https://github.com/Ricardokohler/EducaSys">EducaSys</a><blockquote>API completa para cadastro e gerenciamento de dados de instituições de ensino.</blockquote></li>
 <li><a href="https://github.com/Ricardokohler/sistema-loja">Sistema para Loja</a><blockquote>API para cadastro e gerenciamento de dados de uma loja.</blockquote></li>
-<li><a href="https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url">FractUrl</a><blockquote>API para encurtamento e gerenciamento de URLs.</blockquote></li><li><a href="https://github.com/Ricardokohler/LocaVeic/branches">Locaveics</a><blockquote>API simples para sistema de locadora de veículos.</blockquote></li>
+<li><a href="https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url">FractUrl</a><blockquote>API para encurtamento e gerenciamento de URLs.</blockquote></li><li><a href="https://github.com/Ricardokohler/LocaVeic">Locaveics</a><blockquote>API simples para sistema de locadora de veículos.</blockquote></li>
 <li><a href = "https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria">HausDom</a><blockquote>API para cadastro e gerenciamento de imoveis.</blockquote></li>
 <hr><br><h3>Java Core</h3>
 <small><small>Projetos desenvolvidos em <b>Java puro</b> (core), focados em reforçar conceitos fundamentais.<br>
