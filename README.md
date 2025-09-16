@@ -42,8 +42,8 @@ Essas aplicações simulam cenários do mundo real, servindo como **prática par
 - [**Sistema para ponto de venda**](https://github.com/Ricardokohler/Sistema-Ponto-de-Venda---Console)  
   > Aplicação em console para gestão de vendas, em desenvolvimento, com suporte a leitura e escrita em arquivos para salvar dados.
 
--[**Java Core Exercises**](https://github.com/Ricardokohler/JavaCoreExercises)
-> Exercícios organizados em formato RoadMap para treinamento de conceitos fundamentais da programação
+- [**Java Core Exercises**](https://github.com/Ricardokohler/JavaCoreExercises)
+  > Exercícios organizados em formato RoadMap para treinamento de conceitos fundamentais da programação
 
 ---
 
