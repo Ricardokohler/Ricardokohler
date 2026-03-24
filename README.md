@@ -50,7 +50,7 @@ Essas aplicações simulam cenários do mundo real, servindo como **prática par
 
 ### Scripts
 <small> Uma coleção de Shell Scripts simples para aceleração de setup Linux </small>
-- [**Scrip para Instalação de aplicativos em Sistema Ubuntu**] ()
+- [**Scrip para Instalação de aplicativos em Sistema Ubuntu**] (https://github.com/Ricardokohler/ShellScripts.git)
   >Script para atualização, instalação e checagem de versão para Ubuntu LTS 24.04
 
 ---
