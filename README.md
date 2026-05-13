@@ -18,10 +18,10 @@ Essas APIs foram criadas para **simular sistemas reais** de diferentes domínios
 - [**EducaSys - Api**](https://github.com/Ricardokohler/EducaSys)  
   > API completa para cadastro e gerenciamento de dados de instituições de ensino.
 
-- [**SyStore - Api**](https://github.com/Ricardokohler/sistema-loja)  
+- [**SyStore - Api**](https://github.com/Ricardokohler/SyStore)
   > API para cadastro e gerenciamento de dados de uma loja.
 
-- [**FractUrl - Api**](https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url)  
+- [**FractUrl - Api**](https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url)
   > API para encurtamento e gerenciamento de URLs.
 
 - [**LocaVeics - Api**](https://github.com/Ricardokohler/LocaVeic)  
