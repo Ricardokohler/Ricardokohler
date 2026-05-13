@@ -15,19 +15,19 @@ Desenvolvedor Back-End - Estágio / Júnior
 <small>Coleção de projetos desenvolvidos com foco em **arquitetura REST**, implementando operações **CRUD** para manipulação de dados.  
 Essas APIs foram criadas para **simular sistemas reais** de diferentes domínios.</small>
 
-- [**EducaSys**](https://github.com/Ricardokohler/EducaSys)  
+- [**EducaSys - Api**](https://github.com/Ricardokohler/EducaSys)  
   > API completa para cadastro e gerenciamento de dados de instituições de ensino.
 
-- [**Sistema para Loja**](https://github.com/Ricardokohler/sistema-loja)  
+- [**SyStore - Api**](https://github.com/Ricardokohler/sistema-loja)  
   > API para cadastro e gerenciamento de dados de uma loja.
 
-- [**FractUrl**](https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url)  
+- [**FractUrl - Api**](https://github.com/Ricardokohler/Fracturl---Encurtador-de-Url)  
   > API para encurtamento e gerenciamento de URLs.
 
-- [**LocaVeics**](https://github.com/Ricardokohler/LocaVeic)  
+- [**LocaVeics - Api**](https://github.com/Ricardokohler/LocaVeic)  
   > API simples para sistema de locadora de veículos.
 
-- [**HausDom**](https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria)  
+- [**HausDom - Api**](https://github.com/Ricardokohler/HausDom---Sistema-Imobiliaria)  
   > API para cadastro e gerenciamento de imóveis.
 
 ---
@@ -39,7 +39,7 @@ Essas aplicações simulam cenários do mundo real, servindo como **prática par
 - [**Cadastro de Eventos - Console**](https://github.com/Ricardokohler/CadastroEventos-Console)  
   > Aplicação em console para cadastro de eventos, com leitura e escrita em arquivos para persistência de dados.
 
-- [**Sistema para ponto de venda**](https://github.com/Ricardokohler/Sistema-Ponto-de-Venda---Console)  
+- [**SyStore - Console**](https://github.com/Ricardokohler/Sistema-Ponto-de-Venda---Console)  
   > Aplicação em console para gestão de vendas, em desenvolvimento, com suporte a leitura e escrita em arquivos para salvar dados.
 
 - [**Java Core Exercises**](https://github.com/Ricardokohler/JavaCoreExercises)
