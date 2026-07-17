@@ -39,7 +39,7 @@ Essas aplicações simulam cenários do mundo real, servindo como **prática par
 - [**Cadastro de Eventos - Console**](https://github.com/Ricardokohler/CadastroEventos-Console)  
   > Aplicação em console para cadastro de eventos, com leitura e escrita em arquivos para persistência de dados.
 
-- [**SyStore - Console**]([https://github.com/Ricardokohler/Sistema-Ponto-de-Venda---Console](https://github.com/Ricardokohler/SyStore-Console))  
+- [**SyStore - Console**](https://github.com/Ricardokohler/SyStore-Console)  
   > Aplicação em console para gestão de vendas, em desenvolvimento, com suporte a leitura e escrita em arquivos para salvar dados.
 
 - [**LocaVeics - Console**](https://github.com/Ricardokohler/LocaVeics-Console.git)
